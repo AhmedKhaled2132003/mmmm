@@ -1,1 +1,1424 @@
-function b(c,d){const e=a();return b=function(f,g){f=f-0x168;let h=e[f];return h;},b(c,d);}function a(){const b3=['processedCount','length','\x22>تحميل\x20الروابط\x20المختصرة</a>','[name=\x22password\x22]','fixed','active','t_bingo','block','submit','progressText','none','\x22>تحميل\x20ملف\x20الأخطاء</a>','1499ZjaBUH','stringify','checked','الروابط\x20الناجحة:\x20','⏹\x20توقفت\x20الجدولة\x20التلقائية\x20بواسطة\x20المستخدم','createObjectURL','textContent','لا\x20توجد\x20روابط\x20أصلية','log-entry','password','40px','تمو\x20ساحر','classList','height','emergencyStop','لم\x20يتم\x20اختيار\x20ملف','تحميل\x20','خطأ\x20في\x20السطر\x20','onload','center','processedLines','fileName','snsid','toLowerCase','trim','🎁\x20','تم\x20حفظ\x20النتائج\x20الجزئية','https://tinyurl.com/api-create.php?url=','type','url','progressInfo','.tab','giftfile','lastPartialResults','⚠️\x20يرجى\x20اختيار\x20ملف\x20الهدايا','10000','9IwgIwW','0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ','join','-khld-','downloadErrors','errors','zIndex','11131056CGsQSZ','https://farm-us.centurygames.com/index.php/webasync/get_feed_key','00:00:00','rewardTypes','t_get_mine_goldenChest','position','\x22>تحميل\x20كل\x20النتائج</a>','appendChild','errors_','className','t_water_ranch_lev','floor','https://apps.facebook.com/family-farm/ar/facebook/get_reward/?vk=','addEventListener','progressBar','حزمة\x20المبتدئين','closeUI','giftGeneratorButton','username','getElementById','rawLinksText','unknown','تعذر\x20تشغيل\x20صوت\x20الاختبار.\x20يرجى\x20التحقق\x20من\x20إعدادات\x20المتصفح.','===\x20روابط\x20مختصرة\x20===\x0a','play','status','download','push','justifyContent','partialResultsNotice','718665fcvsjx','غير\x20صالح','downloadCombined','rawTab','failedLinks','items','fontSize','toString','حدث\x20خطأ\x20في\x20تحميل\x20النتائج\x20الجزئية\x20السابقة','errorsTab','[name=\x22type\x22]','files','innerHTML','\x22\x20download=\x22','⚠️\x20لم\x20يتم\x20الاختصار\x20باستخدام\x20TinyURL\x20-\x20ربما\x20الـ\x20alias\x20مستخدم.','lineHeight','backgroundColor','712YpXojq','GET','totalLines','catch','toISOString','round','append','طاقة','logEntries','stopRequested','add','غير\x20معروف','log','فشل\x20في\x20الاتصال\x20لـ\x20uss:\x20','&alias=','title','20px','forEach','replace','24330Ymtzfw','\x20|\x20د.\x20أحمد\x20خالد</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','boxShadow','___','div','</strong>\x20-\x20','raw','===\x20الأخطاء\x20===\x0a','click','pointer','\x20(السطر\x20','maxRetries','\x0a\x0a===\x20روابط\x20أصلية\x20===\x0a','padStart','\x20سطر','successMessage','href','\x22>تحميل\x20الروابط\x20الأصلية</a>','\x20|\x20الروابط\x20الفاشلة:\x20','countdown','style','\x20من\x20',':\x20تنسيق\x20غير\x20صحيح','t_submarine_collect','enableSchedule','giftGeneratorContainer','cursor','borderRadius','740257NSIJBl','responseText','retryDelay','groupedLinks','random','تلقائى','t_get_sky_adv_open','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22schedule-section\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>⏰\x20جدولة\x20التكرار\x20التلقائي</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22schedule-option\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22enableSchedule\x22\x20name=\x22enableSchedule\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22enableSchedule\x22>تمكين\x20الجدولة\x20التلقائية</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22scheduleOptions\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22time-inputs\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-group\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>عدد\x20الساعات:</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20name=\x22hours\x22\x20min=\x220\x22\x20value=\x220\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-group\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>عدد\x20الدقائق:</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20name=\x22minutes\x22\x20min=\x221\x22\x20value=\x2230\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22btn\x20btn-warning\x22\x20id=\x22testSound\x22>🔊\x20اختبار\x20صوت\x20التنبيه</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22counter-display\x22\x20id=\x22counterDisplay\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20الروابط\x20المعالجة:\x20<span\x20id=\x22processedCount\x22>0</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22progress-container\x22\x20id=\x22progressContainer\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22progress-bar\x22\x20id=\x22progressBar\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22progress-info\x22\x20id=\x22progressInfo\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22progressPercent\x22>0%</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22progressText\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22live-counter\x22\x20id=\x22liveCounter\x22></div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22submit\x22\x20class=\x22btn\x20btn-secondary\x22>🚀\x20بدء\x20توليد\x20الروابط</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22btn\x20btn-danger\x22\x20id=\x22stopSchedule\x22>⏹\x20إيقاف\x20الجدولة</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22emergency-stop\x22\x20id=\x22emergencyStop\x22>🛑\x20توقف\x20طارئ\x20وحفظ\x20النتائج\x20الحالية</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</form>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22partial-results-notice\x22\x20id=\x22partialResultsNotice\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20⚠️\x20هذه\x20نتائج\x20جزئية\x20من\x20آخر\x20عملية\x20تم\x20إيقافها.\x20يمكنك\x20استكمال\x20المعالجة\x20أو\x20تحميل\x20النتائج\x20الحالية.\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22countdown-container\x22\x20id=\x22countdownContainer\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22countdown\x22>الوقت\x20المتبقي\x20للتنفيذ\x20التالي:\x20<span\x20id=\x22countdown\x22>00:00:00</span></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22execution-log\x22\x20id=\x22executionLog\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>📝\x20سجل\x20التنفيذ</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22logEntries\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22loading\x22\x20id=\x22loading\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22https://i.gifer.com/ZZ5H.gif\x22\x20alt=\x22جاري\x20التحميل\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>جاري\x20معالجة\x20طلبك،\x20الرجاء\x20الانتظار...</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22success\x22\x20id=\x22successMessage\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20✅\x20تم\x20تنفيذ\x20العملية\x20بنجاح\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22error\x22\x20id=\x22errorMessage\x22></div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22results\x22\x20id=\x22results\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22tabs\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22tab\x20active\x22\x20data-tab=\x22result\x22>النتائج</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22tab\x22\x20data-tab=\x22shortened\x22>الروابط\x20المختصرة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22tab\x22\x20data-tab=\x22raw\x22>الروابط\x20الأصلية</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22tab\x22\x20data-tab=\x22errors\x22\x20id=\x22errorsTab\x22\x20style=\x22display:\x20none;\x22>الأخطاء</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22tab-content\x20active\x22\x20id=\x22resultTab\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22tab-content\x22\x20id=\x22shortenedTab\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22tab-content\x22\x20id=\x22rawTab\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22tab-content\x22\x20id=\x22errorsTabContent\x22></div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22download-buttons\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20href=\x22#\x22\x20class=\x22btn\x22\x20id=\x22downloadShort\x22>تحميل\x20الروابط\x20المختصرة</a>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20href=\x22#\x22\x20class=\x22btn\x22\x20id=\x22downloadRaw\x22>تحميل\x20الروابط\x20الأصلية</a>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20href=\x22#\x22\x20class=\x22btn\x20btn-secondary\x22\x20id=\x22downloadCombined\x22>تحميل\x20كل\x20النتائج</a>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20href=\x22#\x22\x20class=\x22btn\x20btn-danger\x22\x20id=\x22downloadErrors\x22\x20style=\x22display:\x20none;\x22>تحميل\x20ملف\x20الأخطاء</a>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22footer\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>جميع\x20الحقوق\x20محفوظة\x20&copy;\x20','.\x20⚠️\x20USS\x20غير\x20صالح:\x20','parse','combined','createElement','name','textAlign','getAttribute','<strong>التنفيذ\x20#','t_get_sky_adv_lev','allowedUsers','display','errorMessage','scheduleOptions','دلو\x20خارق','target','تم\x20معالجة\x20','result','split','remove','isRunning','متفجرات','</option>','progressPercent','message','preventDefault','change','substring','363Vyctwo','right','body','t_get_mine_woodenChest','prepend','.txt','errorsTabContent','filter','currentTime','flex','POST','isPartial','ceil','liveCounter','resultTab','raw_links_','https://files.catbox.moe/hb2et0.mp3','combined_results_','shortenedText','now','لا\x20توجد\x20روابط\x20مختصرة','t_get_mysteryshopkeeper','data:text/plain;charset=utf-8,','progressContainer','[name=\x22minutes\x22]','<option\x20value=\x22','01001948570','7092520MIrCAy','00112233','hash','50%','-KHLD-','successfulLinks','t_achieve_achievement_trophy','reward','short','0\x202px\x208px\x20rgba(0,0,0,0.2)','.\x20⚠️\x20تنسيق\x20غير\x20صحيح\x20في\x20السطر\x20','shortenedTab','33221100','تى\x20ان\x20تى','width','#3498db','<br>','767754kqkEjR','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translate(-50%,\x20-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20500px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x2095%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-height:\x2090vh;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow-y:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x205px\x2020px\x20rgba(0,0,0,0.1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x2010000;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Tajawal\x27,\x20Arial,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20direction:\x20rtl;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.close-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2018px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#e74c3c;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2025px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2025px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20line-height:\x2025px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20h1\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x201.5rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x200\x2010px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#2c3e50;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20h2\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x201rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x200\x2020px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#7f8c8d;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20normal;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.form-group\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20label\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20500;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#2c3e50;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.9rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20input,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20select\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.9rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.2s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20input:focus,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20select:focus\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-color:\x20#3498db;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x200\x200\x202px\x20rgba(52,\x20152,\x20219,\x200.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20outline:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#3498db;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.9rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.2s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x205px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.btn:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#2980b9;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.btn-secondary\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#2ecc71;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.btn-secondary:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#27ae60;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.btn-danger\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#e74c3c;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.btn-danger:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#c0392b;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.btn-warning\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#f39c12;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.btn-warning:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#e67e22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.file-input\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20relative;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.file-input\x20label\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#f8f9fa;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20dashed\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.2s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.9rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.file-input\x20label:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#e9ecef;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-color:\x20#3498db;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.file-input\x20input[type=\x22file\x22]\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.file-name\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.8rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#666;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.progress-container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x2015px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#f1f1f1;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.progress-bar\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#2ecc71;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x200%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20width\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.progress-info\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20space-between;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.8rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.live-counter\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x2010px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.9rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#3498db;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.emergency-stop\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.loading\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2020px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.loading\x20img\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2050px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2050px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.loading\x20p\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.9rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#2c3e50;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.results\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.tabs\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.tab\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom:\x202px\x20solid\x20transparent;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.2s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.9rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.tab.active\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom-color:\x20#3498db;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#3498db;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20500;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.tab-content\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#f8f9fa;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-height:\x20200px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow-y:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.8rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20white-space:\x20pre-wrap;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.tab-content.active\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.download-buttons\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-wrap:\x20wrap;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.download-buttons\x20a\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x201\x201\x2045%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20min-width:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.8rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x206px\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.error\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#fdecea;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#e74c3c;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-left:\x203px\x20solid\x20#e74c3c;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.9rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.success\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#e8f5e9;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#2e7d32;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-left:\x203px\x20solid\x20#2e7d32;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.9rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.schedule-section\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#f8f9fa;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.schedule-section\x20h3\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x200\x2010px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x201rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#2c3e50;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.schedule-option\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.schedule-option\x20label\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20inline;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-right:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20#scheduleOptions\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding-top:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-top:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.time-inputs\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.time-inputs\x20.form-group\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.countdown-container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#e3f2fd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.9rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.countdown\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#3498db;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.execution-log\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#f5f5f5;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-height:\x20150px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow-y:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.8rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.log-entry\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x205px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.8rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.log-entry:last-child\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.counter-display\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.9rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#2ecc71;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x2010px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.partial-results-notice\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#fff3cd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#856404;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-left:\x203px\x20solid\x20#ffeeba;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.9rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.footer\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding-top:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#666;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x200.8rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-top:\x201px\x20solid\x20#eee;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20@media\x20(max-width:\x20500px)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2095%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.download-buttons\x20a\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x201\x201\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#giftGeneratorContainer\x20.time-inputs\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20','<br><a\x20href=\x22','🚫\x20اسم\x20المستخدم\x20أو\x20كلمة\x20المرور\x20غير\x20صحيحة.','4rNHAgr','stopSchedule','toLocaleString','DrKhld','downloadShort','results','resultText','error','[name=\x22username\x22]','بنزين','6nSHPZy','head','loading','t_get_farmclub_final_reward','.tab-content','data-tab','alignItems','payload','value','سماد\x20خارق','text/plain;charset=utf-8','لا\x20توجد\x20نتائج','executionLog','color','أداة\x20توليد\x20روابط\x20الهدايا','\x20|\x20<a\x20href=\x22','downloadRaw','bottom','querySelector'];a=function(){return b3;};return a();}(function(c,d){const af=b,e=c();while(!![]){try{const f=parseInt(af('0x1c1'))/0x1*(parseInt(af(0x21b))/0x2)+-parseInt(af(0x194))/0x3+parseInt(af('0x198'))/0x4*(parseInt(af(0x20a))/0x5)+-parseInt(af(0x1a2))/0x6*(-parseInt(af('0x24a'))/0x7)+parseInt(af(0x183))/0x8*(-parseInt(af(0x1e5))/0x9)+-parseInt(af(0x22e))/0xa*(parseInt(af(0x168))/0xb)+parseInt(af('0x1ec'))/0xc;if(f===d)break;else e['push'](e['shift']());}catch(g){e['push'](e['shift']());}}}(a,0x77208),(function(){'use strict';const ag=b;const c={'sessionDuration':0x18*0x3c*0x3c,'maxRetries':0x3,'retryDelay':0x3e8,'rewardNames':{'240895':'حزمة\x20رائعه','240894':ag(0x1fb),'204281':'اصفر','207687':'موف','222118':ag('0x190'),'100254':ag('0x1a1'),'209207':ag(0x222),'222117':ag('0x266'),'209351':'خضرة','10003':ag('0x1ab'),'205545':'قسيمة\x20خضراء','202747':ag(0x24f),'10005':ag(0x25f),'201966':ag(0x1cc)},'rewardTypes':['t_calendar_everday_reward',ag(0x1bb),ag(0x189),ag(0x1f0),ag('0x16b'),ag(0x17d),ag('0x1a5'),ag('0x25a'),ag(0x250),ag('0x1f0'),ag('0x245'),ag('0x1f6')],'allowedUsers':{'walaa':'112233445500','khaled':ag(0x182),'esraa':ag('0x184'),'eldodg':ag(0x18f)}};let d=null,e=null,f=0x0,g=0x0,h=0x0,i={'totalLines':0x0,'processedLines':0x0,'successfulLinks':0x0,'failedLinks':0x0,'partialResults':null,'isRunning':![],'stopRequested':![]},j=![],k=null;function l(I=0x20,J=ag(0x19b)){const ah=ag,K=J[ah(0x1b6)],L=I-K,M=L/0x2;let N=m(Math[ah('0x174')](M/0x2)),O=m(Math[ah(0x1f7)](M/0x2));return N=N[ah('0x26c')](0x0,M),O=O[ah('0x26c')](0x0,M),N+J+O;}function m(I){const ai=ag,J='0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';let K='';for(let L=0x0;L<I;L++){K+=J['charAt'](Math[ai('0x1f7')](Math[ai(0x24e)]()*J[ai('0x1b6')]));}return K;}function n(I){const aj=ag,J=aj(0x1e6);let K='';for(let L=0x0;L<0x7;L++){K+=J[Math[aj(0x1f7)](Math[aj('0x24e')]()*J[aj(0x1b6)])];}return I+aj(0x1e8)+K;}function o(I,J,K){const ak=ag;let L=ak('0x1dc')+encodeURIComponent(I);J&&(L+=ak(0x229)+encodeURIComponent(J));let M=0x0;function N(){const al=ak;GM_xmlhttpRequest({'method':al(0x21c),'url':L,'onload':function(O){const am=al;O[am('0x205')]===0xc8&&O['responseText']&&p(O[am('0x24b')])?K(O[am('0x24b')]):(M++,M<c['maxRetries']?setTimeout(N,c[am(0x24c)]):K(am('0x218')));},'onerror':function(){const an=al;M++,M<c[an('0x239')]?setTimeout(N,c[an(0x24c)]):K(an('0x218'));}});}N();}function p(I){try{return new URL(I),!![];}catch(J){return![];}}function q(){const ao=ag,I=document[ao('0x1ff')](ao('0x1fa')),J=document[ao('0x1ff')](ao(0x268)),K=document[ao('0x1ff')](ao('0x1be')),L=document['getElementById'](ao(0x175));if(i[ao('0x21d')]>0x0){const M=Math[ao(0x220)](i['processedLines']/ i[ao('0x21d')]*0x64);I[ao('0x242')][ao('0x191')]=M+'%',J[ao(0x1c7)]=M+'%',K[ao('0x1c7')]=ao('0x261')+i[ao(0x1d5)]+ao(0x243)+i[ao('0x21d')]+ao(0x23c),L[ao('0x1c7')]=ao(0x1c4)+i['successfulLinks']+ao('0x240')+i[ao('0x20e')];}}function r(I,J,K,L){const ap=ag,M=I['split']('\x0a')[ap('0x16f')](R=>R[ap(0x1d9)]()!==''),N={},O=[];let P={};i={'totalLines':M[ap('0x1b6')],'processedLines':0x0,'successfulLinks':0x0,'failedLinks':0x0,'partialResults':null,'isRunning':!![],'stopRequested':![]},q();function Q(R,S){const aq=ap;if(i[aq(0x224)]||R>=M['length']){i[aq(0x265)]=![];if(i[aq(0x224)]){const a2={'groupedLinks':N,'errors':O,'processedCount':R,'isPartial':!![]};GM_setValue(aq(0x1e2),JSON[aq(0x1c2)](a2));}S({'groupedLinks':N,'errors':O,'processedCount':R,'successfulLinks':i[aq('0x188')],'failedLinks':i['failedLinks'],'isPartial':i[aq('0x224')]});return;}const T=M[R],U=T[aq('0x263')](',');if(U[aq(0x1b6)]!==0x2){O[aq('0x207')](aq(0x1d2)+(R+0x1)+aq(0x244));!N[aq(0x20b)]&&(N[aq(0x20b)]={'raw':[],'short':[]},P[aq('0x20b')]=0x1);N[aq(0x20b)][aq('0x234')][aq(0x207)](P[aq('0x20b')]+aq('0x18d')+(R+0x1)),N[aq('0x20b')][aq('0x18b')][aq('0x207')](P[aq('0x20b')]+'.\x20⚠️\x20تنسيق\x20غير\x20صحيح\x20في\x20السطر\x20'+(R+0x1)),P[aq(0x20b)]++,i['processedLines']++,i['failedLinks']++,q(),Q(R+0x1,S);return;}const V=U[0x0][aq('0x1d9')](),W=U[0x1]['trim'](),X=m(0x8),Y=l()+aq(0x187)+X,Z=new URLSearchParams();Z[aq(0x221)]('uss',V),Z[aq('0x221')]('type',K),Z['append']('key',Y),Z[aq(0x221)](aq(0x185),W);let a0=0x0;function a1(){const ar=aq;GM_xmlhttpRequest({'method':ar('0x172'),'url':ar('0x1ed'),'data':Z[ar('0x211')](),'headers':{'Content-Type':'application/x-www-form-urlencoded'},'onload':function(a3){const as=ar;if(a3['status']===0xc8)try{let a4;try{a4=JSON[as(0x253)](a3[as('0x24b')]);}catch(ac){const ad=a3[as('0x24b')][as(0x22d)](/<[^>]*>?/gm,'');a4=JSON[as(0x253)](ad);}if(!a4||!a4['payload']){O['push']('رد\x20غير\x20صالح\x20لـ\x20uss:\x20'+V+'\x20(السطر\x20'+(R+0x1)+')');!N[as(0x20b)]&&(N[as(0x20b)]={'raw':[],'short':[]},P[as(0x20b)]=0x1);N[as('0x20b')][as('0x234')][as(0x207)](P[as('0x20b')]+'.\x20⚠️\x20USS\x20غير\x20صالح:\x20'+V+as('0x238')+(R+0x1)+')'),N[as(0x20b)]['short'][as('0x207')](P[as(0x20b)]+as(0x252)+V+as('0x238')+(R+0x1)+')'),P[as(0x20b)]++,i[as(0x1d5)]++,i[as(0x20e)]++,q(),Q(R+0x1,S);return;}const a5=a4[as('0x1a9')],a6=a5[as('0x1dd')]||'غير\x20معروف',a7=a5[as(0x1d7)]||'غير\x20معروف',a8=a5[as(0x18a)]&&a5[as(0x18a)][as(0x20f)]?a5[as('0x18a')][as('0x20f')]['split'](':')[0x0]:'',a9=c['rewardNames'][a8]||as(0x226),aa=as(0x1f8)+Y+'_'+a7+as('0x231')+a6,ab=n(J);o(aa,ab,function(ae){const at=as;!N[a9]&&(N[a9]={'raw':[],'short':[]},P[a9]=0x1),N[a9][at('0x234')]['push'](P[a9]+'.\x20'+aa),N[a9][at('0x18b')][at(0x207)](P[a9]+'.\x20'+ae),P[a9]++,i[at(0x1d5)]++,i[at('0x188')]++,q(),Q(R+0x1,S);});}catch(ae){O['push']('خطأ\x20في\x20معالجة\x20الرد\x20لـ\x20uss:\x20'+V+as(0x238)+(R+0x1)+')\x20-\x20'+ae[as('0x269')]),!N[as(0x20b)]&&(N[as('0x20b')]={'raw':[],'short':[]},P['غير\x20صالح']=0x1),N[as(0x20b)][as(0x234)][as('0x207')](P[as('0x20b')]+as('0x252')+V+as(0x238)+(R+0x1)+')'),N[as(0x20b)][as('0x18b')]['push'](P[as(0x20b)]+as('0x252')+V+as(0x238)+(R+0x1)+')'),P['غير\x20صالح']++,i[as(0x1d5)]++,i[as(0x20e)]++,q(),Q(R+0x1,S);}else a0++,a0<c[as(0x239)]?setTimeout(a1,c[as(0x24c)]):(O['push'](as(0x228)+V+as(0x238)+(R+0x1)+')'),!N['غير\x20صالح']&&(N[as(0x20b)]={'raw':[],'short':[]},P[as('0x20b')]=0x1),N['غير\x20صالح'][as(0x234)]['push'](P[as(0x20b)]+'.\x20⚠️\x20USS\x20غير\x20صالح:\x20'+V+as('0x238')+(R+0x1)+')'),N[as('0x20b')]['short']['push'](P[as('0x20b')]+as(0x252)+V+as('0x238')+(R+0x1)+')'),P['غير\x20صالح']++,i[as('0x1d5')]++,i[as(0x20e)]++,q(),Q(R+0x1,S));},'onerror':function(){const au=ar;a0++,a0<c['maxRetries']?setTimeout(a1,c[au(0x24c)]):(O[au('0x207')](au('0x228')+V+au(0x238)+(R+0x1)+')'),!N[au(0x20b)]&&(N[au(0x20b)]={'raw':[],'short':[]},P[au('0x20b')]=0x1),N[au('0x20b')][au(0x234)][au(0x207)](P[au('0x20b')]+au(0x252)+V+au('0x238')+(R+0x1)+')'),N['غير\x20صالح'][au('0x18b')][au(0x207)](P[au('0x20b')]+au('0x252')+V+'\x20(السطر\x20'+(R+0x1)+')'),P[au(0x20b)]++,i[au('0x1d5')]++,i['failedLinks']++,q(),Q(R+0x1,S));}});}a1();}Q(0x0,L);}function s(I){const av=ag;let J='',K='',L='';for(const M in I){const N=I[M][av('0x234')][av(0x1b6)];J+=av('0x1da')+M+'\x20('+N+')\x0a',K+='🎁\x20'+M+'\x20('+N+')\x0a',L+=av(0x1da)+M+'\x20('+N+')\x0a',I[M][av('0x234')][av('0x22c')](O=>L+=O+'\x0a'),I[M][av(0x18b)]['forEach'](O=>K+=O+'\x0a'),J+='\x0a',K+='\x0a',L+='\x0a';}return{'resultText':J,'shortenedText':K,'rawLinksText':L};}function t(I,J,K,L=![]){const aw=ag,M=new Date()[aw(0x21f)]()[aw('0x22d')](/[:.]/g,'-')[aw('0x22d')]('T','_')[aw(0x26c)](0x0,0x13),N=I||aw(0x201),O=L?'partial_results_':'',P={'short':O+'short_links_'+N+'_'+M+aw('0x16d'),'raw':O+aw(0x177)+N+'_'+M+'.txt','combined':O+aw('0x179')+N+'_'+M+'.txt','error':K[aw(0x1b6)]>0x0?O+aw(0x1f4)+N+'_'+M+'.txt':null};GM_download({'url':aw(0x17e)+encodeURIComponent(J[aw('0x17a')]),'name':P[aw('0x18b')],'saveAs':![]}),GM_download({'url':aw('0x17e')+encodeURIComponent(J['rawLinksText']),'name':P[aw('0x234')],'saveAs':![]}),GM_download({'url':'data:text/plain;charset=utf-8,'+encodeURIComponent(aw(0x203)+J[aw('0x17a')]+aw(0x23a)+J['rawLinksText']),'name':P[aw(0x254)],'saveAs':![]});P[aw(0x19f)]&&GM_download({'url':aw(0x17e)+encodeURIComponent(aw(0x235)+K[aw(0x1e7)]('\x0a')),'name':P[aw(0x19f)],'saveAs':![]});function Q(U,V){const ax=aw,W=new Blob([U],{'type':ax(0x1ac)});return URL[ax(0x1c6)](W);}const R=Q(J['shortenedText'],P[aw(0x18b)]),S=Q(J[aw('0x200')],P['raw']),T=Q(aw('0x203')+J['shortenedText']+aw(0x23a)+J['rawLinksText'],P[aw('0x254')]);return{'short':{'name':P['short'],'url':R},'raw':{'name':P[aw('0x234')],'url':S},'combined':{'name':P[aw('0x254')],'url':T},'error':P['error']?{'name':P[aw(0x19f)],'url':Q(aw('0x235')+K[aw(0x1e7)]('\x0a'),P['error'])}:null};}function u(){const ay=ag,I=document['createElement'](ay('0x232'));I['id']=ay(0x1fd),I[ay(0x22a)]=ay(0x1b0),I[ay(0x242)][ay('0x1f1')]=ay(0x1b9),I['style'][ay(0x1b3)]='20px',I[ay('0x242')][ay('0x169')]=ay('0x22b'),I['style'][ay('0x191')]=ay(0x1cb),I[ay(0x242)][ay(0x1ce)]=ay('0x1cb'),I[ay('0x242')][ay('0x21a')]=ay(0x192),I[ay('0x242')][ay(0x249)]=ay('0x186'),I[ay('0x242')][ay(0x1af)]='white',I[ay('0x242')][ay('0x257')]=ay('0x1d4'),I[ay('0x242')][ay(0x219)]=ay(0x1cb),I[ay(0x242)][ay('0x210')]=ay(0x22b),I[ay(0x242)][ay('0x248')]=ay(0x237),I['style'][ay(0x230)]=ay('0x18c'),I[ay(0x242)][ay('0x1eb')]=ay('0x1e4'),I[ay(0x242)][ay('0x25c')]=ay('0x171'),I[ay(0x242)][ay(0x1a8)]='center',I[ay(0x242)][ay('0x208')]=ay(0x1d4);const J=document[ay(0x255)]('span');J['textContent']='🎁',J[ay(0x242)][ay('0x210')]='22px',I['appendChild'](J),I[ay(0x1f9)](ay('0x236'),v),document[ay(0x16a)][ay(0x1f3)](I);}function v(){const az=ag,I=document['getElementById'](az(0x247));j?(I[az(0x242)][az(0x25c)]=az(0x1bf),j=![]):(I[az(0x242)][az(0x25c)]=az('0x1bc'),j=!![]);}function w(){const aA=ag;!k&&(k=new Audio(aA('0x178')));try{k[aA(0x170)]=0x0,k[aA(0x204)]()['catch'](I=>console['log']('Could\x20not\x20play\x20sound:',I));}catch(I){console[aA('0x227')]('Error\x20playing\x20sound:',I);}}function x(){const aB=ag,I=new Audio(aB('0x178'));I['play']()[aB('0x21e')](J=>{const aC=aB;console['log']('Could\x20not\x20play\x20test\x20sound:',J),F(aC(0x202));});}function y(){const aD=ag,I=aD(0x195),J='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22giftGeneratorContainer\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22close-btn\x22\x20id=\x22closeUI\x22>×</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h1>نظام\x20توليد\x20روابط\x20الهدايا</h1>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>بواسطة\x20د.\x20أحمد\x20خالد\x20|\x20إصدار\x203.0</h2>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<form\x20id=\x22mainForm\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-group\x20file-input\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>📁\x20اختر\x20ملف\x20الهدايا\x20(يجب\x20أن\x20يحتوي\x20على\x20uss,\x20hash)</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22giftfile\x22>اسحب\x20وأسقط\x20الملف\x20هنا\x20أو\x20انقر\x20للاختيار</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22file\x22\x20name=\x22giftfile\x22\x20id=\x22giftfile\x22\x20accept=\x22.txt\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22file-name\x22\x20id=\x22fileName\x22>لم\x20يتم\x20اختيار\x20ملف</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-group\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>👤\x20اسم\x20المستخدم</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20name=\x22username\x22\x20placeholder=\x22أدخل\x20اسم\x20المستخدم\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-group\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>🔒\x20كلمة\x20المرور</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22password\x22\x20name=\x22password\x22\x20placeholder=\x22أدخل\x20كلمة\x20المرور\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-group\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label>⚙️\x20نوع\x20الهدية</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20name=\x22type\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+c[aD(0x1ef)]['map'](N=>aD('0x181')+N+'\x22>'+N+aD('0x267'))[aD(0x1e7)]('')+aD(0x251)+new Date()['getFullYear']()+aD(0x22f),K=document[aD(0x255)]('style');K[aD(0x1c7)]=I,document[aD(0x1a3)][aD(0x1f3)](K);const L=document[aD(0x255)](aD('0x232'));L['innerHTML']=J,document[aD('0x16a')][aD(0x1f3)](L),u(),document[aD(0x1ff)](aD('0x1fc'))[aD(0x1f9)]('click',v);const M=GM_getValue(aD('0x1e2'),null);M&&(document['getElementById']('partialResultsNotice')[aD(0x242)]['display']=aD(0x1bc)),z();}function z(){const aE=ag;document['getElementById'](aE('0x1e1'))[aE(0x1f9)](aE('0x26b'),function(L){const aF=aE,M=L[aF(0x260)][aF(0x215)][0x0]?L[aF('0x260')][aF(0x215)][0x0][aF(0x256)]:aF(0x1d0);document[aF(0x1ff)](aF('0x1d6'))[aF(0x1c7)]=M;}),document[aE(0x1ff)](aE('0x246'))[aE('0x1f9')](aE(0x26b),function(){const aG=aE;document['getElementById'](aG(0x25e))[aG(0x242)][aG('0x25c')]=this[aG('0x1c3')]?aG('0x1bc'):'none';}),document[aE('0x1b4')]('[name=\x22username\x22]')[aE(0x1f9)](aE('0x26b'),function(){const aH=aE;GM_setValue(aH(0x1fe),this[aH('0x1aa')]);}),document[aE(0x1b4)]('[name=\x22password\x22]')[aE(0x1f9)](aE('0x26b'),function(){const aI=aE;GM_setValue(aI(0x1ca),this['value']);}),document[aE('0x1b4')](aE('0x214'))[aE(0x1f9)](aE('0x26b'),function(){const aJ=aE;GM_setValue(aJ(0x1dd),this[aJ(0x1aa)]);}),document['querySelectorAll'](aE('0x1e0'))[aE(0x22c)](L=>{const aK=aE;L['addEventListener'](aK('0x236'),function(){const aL=aK,M=this[aL(0x258)](aL(0x1a7));document['querySelectorAll'](aL('0x1e0'))['forEach'](N=>N['classList'][aL(0x264)](aL('0x1ba'))),document['querySelectorAll'](aL('0x1a6'))[aL('0x22c')](N=>N[aL(0x1cd)]['remove'](aL(0x1ba))),this[aL(0x1cd)][aL(0x225)](aL(0x1ba)),document['getElementById'](M+'Tab')[aL('0x1cd')][aL('0x225')](aL(0x1ba));});}),document[aE(0x1ff)]('testSound')[aE(0x1f9)](aE(0x236),x);const I=GM_getValue(aE('0x1fe'),''),J=GM_getValue('password',''),K=GM_getValue(aE(0x1dd),c['rewardTypes'][0x0]);if(I)document[aE(0x1b4)]('[name=\x22username\x22]')['value']=I;if(J)document[aE('0x1b4')](aE(0x1b8))['value']=J;if(K)document[aE(0x1b4)]('[name=\x22type\x22]')[aE('0x1aa')]=K;document[aE('0x1ff')]('mainForm')[aE('0x1f9')](aE('0x1bd'),function(L){const aM=aE;L[aM('0x26a')]();const M=document[aM(0x1b4)](aM(0x1a0))[aM(0x1aa)]['trim']()[aM(0x1d8)](),N=document[aM('0x1b4')](aM(0x1b8))[aM('0x1aa')][aM(0x1d9)](),O=document[aM('0x1b4')](aM(0x214))['value'],P=document[aM(0x1ff)](aM('0x1e1')),Q=document[aM('0x1ff')](aM('0x246'))['checked'];if(!c[aM(0x25b)][M]||c['allowedUsers'][M]!==N){F(aM(0x197));return;}if(!P['files']||P[aM(0x215)]['length']===0x0){F(aM(0x1e3));return;}const R=P[aM('0x215')][0x0],S=new FileReader();S[aM(0x1d3)]=function(T){const aN=aM,U=T[aN(0x260)][aN('0x262')];Q?(document[aN(0x1ff)](aN(0x199))['style'][aN(0x25c)]='block',document[aN('0x1ff')]('countdownContainer')[aN(0x242)][aN(0x25c)]='block',document[aN(0x1ff)](aN('0x1ae'))[aN(0x242)]['display']=aN('0x1bc'),document[aN(0x1ff)]('emergencyStop')[aN('0x242')][aN(0x25c)]=aN('0x1bc'),H(U,M,O,function(){const V=A();g=Date['now']()+V,B(V),d=setInterval(()=>{H(U,M,O,function(){const aO=b,W=A();g=Date[aO('0x17b')]()+W,B(W);});},V);})):(document[aN('0x1ff')](aN('0x1cf'))[aN('0x242')][aN(0x25c)]='block',H(U,M,O));},S['readAsText'](R);}),document[aE(0x1ff)](aE(0x199))['addEventListener'](aE('0x236'),function(){const aP=aE;C(),E(aP(0x1c5));}),document[aE('0x1ff')]('emergencyStop')[aE('0x1f9')]('click',function(){const aQ=aE;i[aQ('0x224')]=!![],document[aQ('0x1ff')](aQ('0x1cf'))['style'][aQ(0x25c)]=aQ(0x1bf),E('🛑\x20تم\x20إيقاف\x20العملية\x20بشكل\x20طارئ\x20وحفظ\x20النتائج\x20الحالية');}),document[aE(0x1ff)](aE(0x209))[aE('0x1f9')](aE('0x236'),function(){const aR=aE,L=GM_getValue(aR(0x1e2),null);if(L)try{const M=JSON[aR('0x253')](L);G(M,!![]),GM_setValue(aR(0x1e2),null),document[aR(0x1ff)](aR(0x209))[aR(0x242)]['display']=aR('0x1bf');}catch(N){F(aR(0x212));}});}function A(){const aS=ag,I=parseInt(document['querySelector']('[name=\x22hours\x22]')['value'])||0x0,J=parseInt(document[aS('0x1b4')](aS(0x180))['value'])||0x1e;return I*0x36ee80+J*0xea60;}function B(I){clearInterval(e),g=Date['now']()+I;function J(){const aT=b,K=Date[aT(0x17b)](),L=g-K;if(L<=0x0){clearInterval(e),document[aT('0x1ff')](aT('0x241'))['textContent']=aT(0x1ee),w();return;}const M=Math[aT(0x1f7)](L/(0x3e8*0x3c*0x3c)),N=Math[aT('0x1f7')](L%(0x3e8*0x3c*0x3c)/(0x3e8*0x3c)),O=Math[aT(0x1f7)](L%(0x3e8*0x3c)/0x3e8);document['getElementById'](aT(0x241))['textContent']=M['toString']()[aT('0x23b')](0x2,'0')+':'+N[aT('0x211')]()[aT('0x23b')](0x2,'0')+':'+O[aT('0x211')]()[aT('0x23b')](0x2,'0');}J(),e=setInterval(J,0x3e8);}function C(){const aU=ag;d&&(clearInterval(d),clearInterval(e),d=null,e=null),document[aU('0x1ff')](aU(0x199))['style']['display']='none',document[aU('0x1ff')]('countdownContainer')[aU(0x242)][aU('0x25c')]='none',document[aU('0x1ff')](aU('0x1ae'))[aU('0x242')][aU(0x25c)]=aU(0x1bf),document[aU('0x1ff')](aU(0x1cf))[aU('0x242')][aU('0x25c')]=aU(0x1bf);}function D(I){const aV=ag;h+=I,document[aV('0x1ff')](aV(0x1b5))[aV('0x1c7')]=h;}function E(I,J={}){const aW=ag;f++;const K=document[aW(0x255)](aW(0x232));K[aW(0x1f5)]=aW('0x1c9');let L=aW(0x259)+f+aW(0x233)+new Date()[aW('0x19a')]()+aW(0x193)+I;J[aW(0x18b)]&&(L+=aW('0x196')+J[aW('0x18b')]['url']+'\x22\x20download=\x22'+J[aW('0x18b')][aW(0x256)]+aW('0x1b7')),J[aW(0x234)]&&(L+=aW('0x1b1')+J[aW('0x234')][aW(0x1de)]+aW(0x217)+J['raw'][aW(0x256)]+aW('0x23f')),J[aW('0x254')]&&(L+=aW('0x1b1')+J[aW(0x254)][aW('0x1de')]+aW(0x217)+J[aW('0x254')][aW('0x256')]+aW(0x1f2)),J['error']&&(L+=aW('0x1b1')+J['error'][aW(0x1de)]+aW('0x217')+J[aW('0x19f')][aW(0x256)]+aW(0x1c0)),K[aW('0x216')]=L,document[aW('0x1ff')](aW('0x223'))[aW('0x16c')](K);}function F(I){const aX=ag,J=document[aX(0x1ff)]('errorMessage');J[aX('0x1c7')]=I,J[aX('0x242')][aX('0x25c')]=aX(0x1bc),setTimeout(()=>{const aY=aX;J[aY('0x242')][aY(0x25c)]=aY('0x1bf');},0x1388);}function G(I,J=![]){const aZ=ag,K=document[aZ(0x1ff)](aZ(0x1a4)),L=document[aZ(0x1ff)](aZ(0x19d)),M=document[aZ('0x1ff')](aZ('0x23d')),N=document['getElementById'](aZ('0x25d'));K[aZ(0x242)]['display']=aZ(0x1bf);const O=s(I[aZ('0x24d')]),P=t(GM_getValue(aZ('0x1fe'),''),O,I[aZ('0x1ea')],J);I[aZ('0x1b5')]&&D(I['processedCount']),document['getElementById'](aZ(0x176))['textContent']=O[aZ('0x19e')]||aZ(0x1ad),document[aZ('0x1ff')](aZ(0x18e))['textContent']=O[aZ('0x17a')]||aZ('0x17c'),document[aZ(0x1ff)](aZ('0x20d'))['textContent']=O[aZ('0x200')]||aZ(0x1c8),I['errors']&&I[aZ(0x1ea)]['length']>0x0?(document[aZ('0x1ff')](aZ(0x213))[aZ('0x242')][aZ(0x25c)]='block',document[aZ(0x1ff)]('downloadErrors')[aZ(0x242)][aZ(0x25c)]=aZ(0x1bc),document[aZ(0x1ff)](aZ('0x16e'))['textContent']=I[aZ(0x1ea)]['join']('\x0a')):(document['getElementById'](aZ(0x213))['style'][aZ(0x25c)]=aZ('0x1bf'),document['getElementById'](aZ('0x1e9'))[aZ(0x242)][aZ(0x25c)]=aZ('0x1bf')),document[aZ(0x1ff)]('downloadShort')['href']=P[aZ(0x18b)][aZ('0x1de')],document['getElementById'](aZ('0x19c'))[aZ('0x206')]=P[aZ('0x18b')][aZ(0x256)],document['getElementById'](aZ(0x19c))['textContent']=aZ(0x1d1)+P['short'][aZ('0x256')],document[aZ(0x1ff)]('downloadRaw')[aZ(0x23e)]=P[aZ('0x234')]['url'],document[aZ(0x1ff)](aZ(0x1b2))[aZ(0x206)]=P[aZ(0x234)]['name'],document[aZ('0x1ff')](aZ('0x1b2'))['textContent']='تحميل\x20'+P['raw']['name'],document[aZ('0x1ff')](aZ(0x20c))[aZ(0x23e)]=P[aZ('0x254')][aZ('0x1de')],document[aZ(0x1ff)](aZ(0x20c))['download']=P[aZ(0x254)][aZ('0x256')],document[aZ(0x1ff)](aZ('0x20c'))[aZ(0x1c7)]='تحميل\x20'+P['combined'][aZ(0x256)],P[aZ('0x19f')]&&(document['getElementById']('downloadErrors')['href']=P[aZ('0x19f')]['url'],document[aZ('0x1ff')](aZ('0x1e9'))[aZ(0x206)]=P['error'][aZ(0x256)],document[aZ(0x1ff)](aZ(0x1e9))[aZ('0x1c7')]='تحميل\x20'+P[aZ('0x19f')]['name'],document[aZ('0x1ff')](aZ('0x1e9'))[aZ('0x242')][aZ('0x25c')]=aZ(0x1bc)),L[aZ(0x242)][aZ(0x25c)]=aZ(0x1bc),!J&&(M[aZ(0x242)]['display']=aZ('0x1bc')),E(J?aZ(0x1db):'تم\x20تنفيذ\x20العملية\x20بنجاح',P),w(),setTimeout(()=>{const b0=aZ;M[b0('0x242')][b0('0x25c')]=b0(0x1bf);},0x1388),document['getElementById'](aZ('0x17f'))[aZ('0x242')][aZ(0x25c)]=aZ(0x1bf),document['getElementById'](aZ(0x1df))[aZ('0x242')][aZ(0x25c)]='none',document['getElementById'](aZ('0x175'))[aZ(0x242)][aZ('0x25c')]=aZ(0x1bf),document[aZ(0x1ff)](aZ(0x1cf))[aZ(0x242)]['display']=aZ('0x1bf');}function H(I,J,K,L){const b1=ag,M=document[b1(0x1ff)](b1('0x1a4')),N=document[b1('0x1ff')](b1('0x19d')),O=document[b1('0x1ff')]('successMessage'),P=document[b1('0x1ff')](b1('0x25d'));M[b1(0x242)]['display']=b1('0x1bc'),N[b1(0x242)][b1('0x25c')]=b1('0x1bf'),O['style'][b1(0x25c)]='none',P['style']['display']=b1(0x1bf),document[b1('0x1ff')](b1('0x17f'))[b1(0x242)][b1(0x25c)]=b1(0x1bc),document[b1(0x1ff)]('progressInfo')[b1('0x242')]['display']='block',document[b1('0x1ff')]('liveCounter')[b1('0x242')][b1('0x25c')]=b1('0x1bc'),r(I,J,K,function(Q){const b2=b1;G(Q,Q[b2(0x173)]);if(L)L();});}y();}()));
+// ==UserScript==
+// @name         Family Farm Gift Link Generator
+// @namespace    http://tampermonkey.net/
+// @version      3.0
+// @description  Generate gift links for Family Farm game with URL shortening and scheduling
+// @author       Dr. Ahmed Khaled
+// @match        *://*/*
+// @grant        GM_xmlhttpRequest
+// @grant        GM_download
+// @grant        GM_setValue
+// @grant        GM_getValue
+// @grant        GM_notification
+// @grant        GM_setClipboard
+// @connect      tinyurl.com
+// @connect      farm-us.centurygames.com
+// @require      https://code.jquery.com/jquery-3.6.0.min.js
+// @resource     NOTIFICATION_SOUND https://files.catbox.moe/hb2et0.mp3
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // Configuration
+    const config = {
+        sessionDuration: 24 * 60 * 60, // 24 hours in seconds
+        maxRetries: 3,
+        retryDelay: 1000, // 1 second
+        rewardNames: {
+            "240895": "حزمة رائعه",
+            "240894": "حزمة المبتدئين",
+            "204281": "اصفر",
+            "207687": "موف",
+            "222118": "تى ان تى",
+            "100254": "بنزين",
+            "209207": "طاقة",
+            "222117": "متفجرات",
+            "209351": "خضرة",
+            "10003": "سماد خارق",
+            "205545": "قسيمة خضراء",
+            "202747": "تلقائى",
+            "10005": "دلو خارق",
+            "201966": "تمو ساحر"
+        },
+        rewardTypes: [
+            "t_calendar_everday_reward",
+            "t_bingo",
+            "t_achieve_achievement_trophy",
+            "t_get_mine_goldenChest",
+            "t_get_mine_woodenChest",
+            "t_get_mysteryshopkeeper",
+            "t_get_farmclub_final_reward",
+            "t_get_sky_adv_lev",
+            "t_get_sky_adv_open",
+            "t_get_mine_goldenChest",
+            "t_submarine_collect",
+            "t_water_ranch_lev"
+        ],
+        allowedUsers: {
+            'walaa': '112233445500',
+            'khaled': '01001948570',
+            'esraa': '00112233',
+            'eldodg': '33221100',
+            'HH': '0011223344'
+        }
+    };
+
+    // State variables
+    let schedulerInterval = null;
+    let countdownInterval = null;
+    let executionCount = 0;
+    let nextExecutionTime = 0;
+    let totalProcessedLinks = 0;
+    let currentProcessing = {
+        totalLines: 0,
+        processedLines: 0,
+        successfulLinks: 0,
+        failedLinks: 0,
+        partialResults: null,
+        isRunning: false,
+        stopRequested: false
+    };
+    let isUIVisible = false;
+    let notificationSound = null;
+
+    // Helper functions
+    function generateRandomKey(length = 32, signature = "DrKhld") {
+        const sigLen = signature.length;
+        const remaining = length - sigLen;
+        const half = remaining / 2;
+
+        let before = generateRandomString(Math.ceil(half / 2));
+        let after = generateRandomString(Math.floor(half / 2));
+
+        before = before.substring(0, half);
+        after = after.substring(0, half);
+
+        return before + signature + after;
+    }
+
+    function generateRandomString(length) {
+        const chars = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+        let result = '';
+        for (let i = 0; i < length; i++) {
+            result += chars.charAt(Math.floor(Math.random() * chars.length));
+        }
+        return result;
+    }
+
+    function generateComplexAlias(username) {
+        const chars = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+        let randomPart = '';
+
+        for (let i = 0; i < 7; i++) {
+            randomPart += chars[Math.floor(Math.random() * chars.length)];
+        }
+
+        return username + '-khld-' + randomPart;
+    }
+
+    function shortenUrl(originalUrl, alias, callback) {
+        let apiUrl = "https://tinyurl.com/api-create.php?url=" + encodeURIComponent(originalUrl);
+        if (alias) {
+            apiUrl += "&alias=" + encodeURIComponent(alias);
+        }
+
+        let retryCount = 0;
+
+        function attempt() {
+            GM_xmlhttpRequest({
+                method: "GET",
+                url: apiUrl,
+                onload: function(response) {
+                    if (response.status === 200 && response.responseText && isValidUrl(response.responseText)) {
+                        callback(response.responseText);
+                    } else {
+                        retryCount++;
+                        if (retryCount < config.maxRetries) {
+                            setTimeout(attempt, config.retryDelay);
+                        } else {
+                            callback("⚠️ لم يتم الاختصار باستخدام TinyURL - ربما الـ alias مستخدم.");
+                        }
+                    }
+                },
+                onerror: function() {
+                    retryCount++;
+                    if (retryCount < config.maxRetries) {
+                        setTimeout(attempt, config.retryDelay);
+                    } else {
+                        callback("⚠️ لم يتم الاختصار باستخدام TinyURL - ربما الـ alias مستخدم.");
+                    }
+                }
+            });
+        }
+
+        attempt();
+    }
+
+    function isValidUrl(string) {
+        try {
+            new URL(string);
+            return true;
+        } catch (_) {
+            return false;
+        }
+    }
+
+    function updateProgressBar() {
+        const progressBar = document.getElementById('progressBar');
+        const progressPercent = document.getElementById('progressPercent');
+        const progressText = document.getElementById('progressText');
+        const liveCounter = document.getElementById('liveCounter');
+
+        if (currentProcessing.totalLines > 0) {
+            const percent = Math.round((currentProcessing.processedLines / currentProcessing.totalLines) * 100);
+            progressBar.style.width = percent + '%';
+            progressPercent.textContent = percent + '%';
+            progressText.textContent = `تم معالجة ${currentProcessing.processedLines} من ${currentProcessing.totalLines} سطر`;
+            liveCounter.textContent = `الروابط الناجحة: ${currentProcessing.successfulLinks} | الروابط الفاشلة: ${currentProcessing.failedLinks}`;
+        }
+    }
+
+    function processGiftFile(fileContent, username, selectedType, callback) {
+        const lines = fileContent.split('\n').filter(line => line.trim() !== '');
+        const groupedLinks = {};
+        const errors = [];
+        let rewardCounters = {};
+
+        currentProcessing = {
+            totalLines: lines.length,
+            processedLines: 0,
+            successfulLinks: 0,
+            failedLinks: 0,
+            partialResults: null,
+            isRunning: true,
+            stopRequested: false
+        };
+
+        updateProgressBar();
+
+        function processLine(lineNumber, callback) {
+            if (currentProcessing.stopRequested || lineNumber >= lines.length) {
+                currentProcessing.isRunning = false;
+
+                if (currentProcessing.stopRequested) {
+                    const partialResults = {
+                        groupedLinks: groupedLinks,
+                        errors: errors,
+                        processedCount: lineNumber,
+                        isPartial: true
+                    };
+                    GM_setValue('lastPartialResults', JSON.stringify(partialResults));
+                }
+
+                callback({
+                    groupedLinks: groupedLinks,
+                    errors: errors,
+                    processedCount: lineNumber,
+                    successfulLinks: currentProcessing.successfulLinks,
+                    failedLinks: currentProcessing.failedLinks,
+                    isPartial: currentProcessing.stopRequested
+                });
+                return;
+            }
+
+            const line = lines[lineNumber];
+            const parts = line.split(',');
+            if (parts.length !== 2) {
+                errors.push("خطأ في السطر " + (lineNumber + 1) + ": تنسيق غير صحيح");
+                if (!groupedLinks['غير صالح']) {
+                    groupedLinks['غير صالح'] = { raw: [], short: [] };
+                    rewardCounters['غير صالح'] = 1;
+                }
+                groupedLinks['غير صالح'].raw.push(rewardCounters['غير صالح'] + ". ⚠️ تنسيق غير صحيح في السطر " + (lineNumber + 1));
+                groupedLinks['غير صالح'].short.push(rewardCounters['غير صالح'] + ". ⚠️ تنسيق غير صحيح في السطر " + (lineNumber + 1));
+                rewardCounters['غير صالح']++;
+                currentProcessing.processedLines++;
+                currentProcessing.failedLinks++;
+                updateProgressBar();
+                processLine(lineNumber + 1, callback);
+                return;
+            }
+
+            const uss = parts[0].trim();
+            const hash = parts[1].trim();
+            const randomSuffix = generateRandomString(8);
+            const key = generateRandomKey() + '-KHLD-' + randomSuffix;
+
+            const postData = new URLSearchParams();
+            postData.append('uss', uss);
+            postData.append('type', selectedType);
+            postData.append('key', key);
+            postData.append('hash', hash);
+
+            let retryCount = 0;
+
+            function attemptApiCall() {
+                GM_xmlhttpRequest({
+                    method: "POST",
+                    url: "https://farm-us.centurygames.com/index.php/webasync/get_feed_key",
+                    data: postData.toString(),
+                    headers: {
+                        "Content-Type": "application/x-www-form-urlencoded"
+                    },
+                    onload: function(response) {
+                        if (response.status === 200) {
+                            try {
+                                let json;
+                                try {
+                                    json = JSON.parse(response.responseText);
+                                } catch (e) {
+                                    const cleanedResponse = response.responseText.replace(/<[^>]*>?/gm, '');
+                                    json = JSON.parse(cleanedResponse);
+                                }
+
+                                if (!json || !json.payload) {
+                                    errors.push("رد غير صالح لـ uss: " + uss + " (السطر " + (lineNumber + 1) + ")");
+                                    if (!groupedLinks['غير صالح']) {
+                                        groupedLinks['غير صالح'] = { raw: [], short: [] };
+                                        rewardCounters['غير صالح'] = 1;
+                                    }
+                                    groupedLinks['غير صالح'].raw.push(rewardCounters['غير صالح'] + ". ⚠️ USS غير صالح: " + uss + " (السطر " + (lineNumber + 1) + ")");
+                                    groupedLinks['غير صالح'].short.push(rewardCounters['غير صالح'] + ". ⚠️ USS غير صالح: " + uss + " (السطر " + (lineNumber + 1) + ")");
+                                    rewardCounters['غير صالح']++;
+                                    currentProcessing.processedLines++;
+                                    currentProcessing.failedLinks++;
+                                    updateProgressBar();
+                                    processLine(lineNumber + 1, callback);
+                                    return;
+                                }
+
+                                const payload = json.payload;
+                                const type = payload.type || 'غير معروف';
+                                const snsid = payload.snsid || 'غير معروف';
+                                const rewardCode = (payload.reward && payload.reward.items) ? payload.reward.items.split(':')[0] : '';
+                                const rewardName = config.rewardNames[rewardCode] || 'غير معروف';
+
+                                const link = "https://apps.facebook.com/family-farm/ar/facebook/get_reward/?vk=" + key + "_" + snsid + "___" + type;
+                                const alias = generateComplexAlias(username);
+
+                                shortenUrl(link, alias, function(short) {
+                                    if (!groupedLinks[rewardName]) {
+                                        groupedLinks[rewardName] = { raw: [], short: [] };
+                                        rewardCounters[rewardName] = 1;
+                                    }
+                                    groupedLinks[rewardName].raw.push(rewardCounters[rewardName] + ". " + link);
+                                    groupedLinks[rewardName].short.push(rewardCounters[rewardName] + ". " + short);
+                                    rewardCounters[rewardName]++;
+                                    currentProcessing.processedLines++;
+                                    currentProcessing.successfulLinks++;
+                                    updateProgressBar();
+                                    processLine(lineNumber + 1, callback);
+                                });
+                            } catch (e) {
+                                errors.push("خطأ في معالجة الرد لـ uss: " + uss + " (السطر " + (lineNumber + 1) + ") - " + e.message);
+                                if (!groupedLinks['غير صالح']) {
+                                    groupedLinks['غير صالح'] = { raw: [], short: [] };
+                                    rewardCounters['غير صالح'] = 1;
+                                }
+                                groupedLinks['غير صالح'].raw.push(rewardCounters['غير صالح'] + ". ⚠️ USS غير صالح: " + uss + " (السطر " + (lineNumber + 1) + ")");
+                                groupedLinks['غير صالح'].short.push(rewardCounters['غير صالح'] + ". ⚠️ USS غير صالح: " + uss + " (السطر " + (lineNumber + 1) + ")");
+                                rewardCounters['غير صالح']++;
+                                currentProcessing.processedLines++;
+                                currentProcessing.failedLinks++;
+                                updateProgressBar();
+                                processLine(lineNumber + 1, callback);
+                            }
+                        } else {
+                            retryCount++;
+                            if (retryCount < config.maxRetries) {
+                                setTimeout(attemptApiCall, config.retryDelay);
+                            } else {
+                                errors.push("فشل في الاتصال لـ uss: " + uss + " (السطر " + (lineNumber + 1) + ")");
+                                if (!groupedLinks['غير صالح']) {
+                                    groupedLinks['غير صالح'] = { raw: [], short: [] };
+                                    rewardCounters['غير صالح'] = 1;
+                                }
+                                groupedLinks['غير صالح'].raw.push(rewardCounters['غير صالح'] + ". ⚠️ USS غير صالح: " + uss + " (السطر " + (lineNumber + 1) + ")");
+                                groupedLinks['غير صالح'].short.push(rewardCounters['غير صالح'] + ". ⚠️ USS غير صالح: " + uss + " (السطر " + (lineNumber + 1) + ")");
+                                rewardCounters['غير صالح']++;
+                                currentProcessing.processedLines++;
+                                currentProcessing.failedLinks++;
+                                updateProgressBar();
+                                processLine(lineNumber + 1, callback);
+                            }
+                        }
+                    },
+                    onerror: function() {
+                        retryCount++;
+                        if (retryCount < config.maxRetries) {
+                            setTimeout(attemptApiCall, config.retryDelay);
+                        } else {
+                            errors.push("فشل في الاتصال لـ uss: " + uss + " (السطر " + (lineNumber + 1) + ")");
+                            if (!groupedLinks['غير صالح']) {
+                                groupedLinks['غير صالح'] = { raw: [], short: [] };
+                                rewardCounters['غير صالح'] = 1;
+                            }
+                            groupedLinks['غير صالح'].raw.push(rewardCounters['غير صالح'] + ". ⚠️ USS غير صالح: " + uss + " (السطر " + (lineNumber + 1) + ")");
+                            groupedLinks['غير صالح'].short.push(rewardCounters['غير صالح'] + ". ⚠️ USS غير صالح: " + uss + " (السطر " + (lineNumber + 1) + ")");
+                            rewardCounters['غير صالح']++;
+                            currentProcessing.processedLines++;
+                            currentProcessing.failedLinks++;
+                            updateProgressBar();
+                            processLine(lineNumber + 1, callback);
+                        }
+                    }
+                });
+            }
+
+            attemptApiCall();
+        }
+
+        processLine(0, callback);
+    }
+
+    function generateResultTexts(groupedLinks) {
+        let resultText = "";
+        let shortenedText = "";
+        let rawLinksText = "";
+
+        for (const reward in groupedLinks) {
+            const count = groupedLinks[reward].raw.length;
+            resultText += "🎁 " + reward + " (" + count + ")\n";
+            shortenedText += "🎁 " + reward + " (" + count + ")\n";
+            rawLinksText += "🎁 " + reward + " (" + count + ")\n";
+
+            groupedLinks[reward].raw.forEach(link => rawLinksText += link + "\n");
+            groupedLinks[reward].short.forEach(link => shortenedText += link + "\n");
+
+            resultText += "\n";
+            shortenedText += "\n";
+            rawLinksText += "\n";
+        }
+
+        return {
+            resultText: resultText,
+            shortenedText: shortenedText,
+            rawLinksText: rawLinksText
+        };
+    }
+
+    function saveResultsToFiles(username, resultTexts, errors, isPartial = false) {
+        const timestamp = new Date().toISOString().replace(/[:.]/g, '-').replace('T', '_').substring(0, 19);
+        const usernameDisplay = username || 'unknown';
+        const prefix = isPartial ? 'partial_results_' : '';
+
+        const files = {
+            short: prefix + "short_links_" + usernameDisplay + "_" + timestamp + ".txt",
+            raw: prefix + "raw_links_" + usernameDisplay + "_" + timestamp + ".txt",
+            combined: prefix + "combined_results_" + usernameDisplay + "_" + timestamp + ".txt",
+            error: errors.length > 0 ? prefix + "errors_" + usernameDisplay + "_" + timestamp + ".txt" : null
+        };
+
+        // Auto-download files
+        GM_download({
+            url: "data:text/plain;charset=utf-8," + encodeURIComponent(resultTexts.shortenedText),
+            name: files.short,
+            saveAs: false
+        });
+
+        GM_download({
+            url: "data:text/plain;charset=utf-8," + encodeURIComponent(resultTexts.rawLinksText),
+            name: files.raw,
+            saveAs: false
+        });
+
+        GM_download({
+            url: "data:text/plain;charset=utf-8," + encodeURIComponent("=== روابط مختصرة ===\n" + resultTexts.shortenedText + "\n\n=== روابط أصلية ===\n" + resultTexts.rawLinksText),
+            name: files.combined,
+            saveAs: false
+        });
+
+        if (files.error) {
+            GM_download({
+                url: "data:text/plain;charset=utf-8," + encodeURIComponent("=== الأخطاء ===\n" + errors.join("\n")),
+                name: files.error,
+                saveAs: false
+            });
+        }
+
+        // Also create download links for manual download
+        function createDownloadLink(content, filename) {
+            const blob = new Blob([content], { type: 'text/plain;charset=utf-8' });
+            return URL.createObjectURL(blob);
+        }
+
+        const shortUrl = createDownloadLink(resultTexts.shortenedText, files.short);
+        const rawUrl = createDownloadLink(resultTexts.rawLinksText, files.raw);
+        const combinedUrl = createDownloadLink("=== روابط مختصرة ===\n" + resultTexts.shortenedText + "\n\n=== روابط أصلية ===\n" + resultTexts.rawLinksText, files.combined);
+
+        return {
+            short: { name: files.short, url: shortUrl },
+            raw: { name: files.raw, url: rawUrl },
+            combined: { name: files.combined, url: combinedUrl },
+            error: files.error ? {
+                name: files.error,
+                url: createDownloadLink("=== الأخطاء ===\n" + errors.join("\n"), files.error)
+            } : null
+        };
+    }
+
+    function createFloatingButton() {
+        const button = document.createElement('div');
+        button.id = 'giftGeneratorButton';
+        button.title = 'أداة توليد روابط الهدايا';
+
+        button.style.position = 'fixed';
+        button.style.bottom = '20px';
+        button.style.right = '20px';
+        button.style.width = '40px';
+        button.style.height = '40px';
+        button.style.backgroundColor = '#3498db';
+        button.style.borderRadius = '50%';
+        button.style.color = 'white';
+        button.style.textAlign = 'center';
+        button.style.lineHeight = '40px';
+        button.style.fontSize = '20px';
+        button.style.cursor = 'pointer';
+        button.style.boxShadow = '0 2px 8px rgba(0,0,0,0.2)';
+        button.style.zIndex = '10000';
+        button.style.display = 'flex';
+        button.style.alignItems = 'center';
+        button.style.justifyContent = 'center';
+
+        const icon = document.createElement('span');
+        icon.textContent = '🎁';
+        icon.style.fontSize = '22px';
+        button.appendChild(icon);
+
+        button.addEventListener('click', toggleUI);
+
+        document.body.appendChild(button);
+    }
+
+    function toggleUI() {
+        const container = document.getElementById('giftGeneratorContainer');
+        if (isUIVisible) {
+            container.style.display = 'none';
+            isUIVisible = false;
+        } else {
+            container.style.display = 'block';
+            isUIVisible = true;
+        }
+    }
+
+    function playNotificationSound() {
+        if (!notificationSound) {
+            notificationSound = new Audio("https://files.catbox.moe/hb2et0.mp3");
+        }
+
+        try {
+            notificationSound.currentTime = 0;
+            notificationSound.play().catch(e => console.log("Could not play sound:", e));
+        } catch (e) {
+            console.log("Error playing sound:", e);
+        }
+    }
+
+    function testNotificationSound() {
+        const testSound = new Audio("https://files.catbox.moe/hb2et0.mp3");
+        testSound.play().catch(e => {
+            console.log("Could not play test sound:", e);
+            showError("تعذر تشغيل صوت الاختبار. يرجى التحقق من إعدادات المتصفح.");
+        });
+    }
+
+    function createUI() {
+        const style = `
+            #giftGeneratorContainer {
+                position: fixed;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                width: 500px;
+                max-width: 95%;
+                max-height: 90vh;
+                overflow-y: auto;
+                background-color: white;
+                border-radius: 10px;
+                box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+                z-index: 10000;
+                display: none;
+                padding: 15px;
+                font-family: 'Tajawal', Arial, sans-serif;
+                direction: rtl;
+                border: 1px solid #ddd;
+            }
+
+            #giftGeneratorContainer .close-btn {
+                position: absolute;
+                top: 5px;
+                left: 5px;
+                font-size: 18px;
+                cursor: pointer;
+                background: #e74c3c;
+                color: white;
+                width: 25px;
+                height: 25px;
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                line-height: 25px;
+            }
+
+            #giftGeneratorContainer h1 {
+                font-size: 1.5rem;
+                margin: 0 0 10px 0;
+                color: #2c3e50;
+                text-align: center;
+            }
+
+            #giftGeneratorContainer h2 {
+                font-size: 1rem;
+                margin: 0 0 20px 0;
+                color: #7f8c8d;
+                text-align: center;
+                font-weight: normal;
+            }
+
+            #giftGeneratorContainer .form-group {
+                margin-bottom: 15px;
+            }
+
+            #giftGeneratorContainer label {
+                display: block;
+                margin-bottom: 5px;
+                font-weight: 500;
+                color: #2c3e50;
+                font-size: 0.9rem;
+            }
+
+            #giftGeneratorContainer input,
+            #giftGeneratorContainer select {
+                width: 100%;
+                padding: 8px 12px;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                font-size: 0.9rem;
+                transition: all 0.2s;
+            }
+
+            #giftGeneratorContainer input:focus,
+            #giftGeneratorContainer select:focus {
+                border-color: #3498db;
+                box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.2);
+                outline: none;
+            }
+
+            #giftGeneratorContainer .btn {
+                background: #3498db;
+                color: white;
+                border: none;
+                padding: 8px 15px;
+                font-size: 0.9rem;
+                border-radius: 5px;
+                cursor: pointer;
+                width: 100%;
+                transition: all 0.2s;
+                margin: 5px 0;
+                text-align: center;
+            }
+
+            #giftGeneratorContainer .btn:hover {
+                background: #2980b9;
+            }
+
+            #giftGeneratorContainer .btn-secondary {
+                background: #2ecc71;
+            }
+
+            #giftGeneratorContainer .btn-secondary:hover {
+                background: #27ae60;
+            }
+
+            #giftGeneratorContainer .btn-danger {
+                background: #e74c3c;
+            }
+
+            #giftGeneratorContainer .btn-danger:hover {
+                background: #c0392b;
+            }
+
+            #giftGeneratorContainer .btn-warning {
+                background: #f39c12;
+            }
+
+            #giftGeneratorContainer .btn-warning:hover {
+                background: #e67e22;
+            }
+
+            #giftGeneratorContainer .file-input {
+                position: relative;
+                margin-bottom: 15px;
+            }
+
+            #giftGeneratorContainer .file-input label {
+                display: block;
+                padding: 8px 12px;
+                background: #f8f9fa;
+                border: 1px dashed #ddd;
+                border-radius: 5px;
+                text-align: center;
+                cursor: pointer;
+                transition: all 0.2s;
+                font-size: 0.9rem;
+            }
+
+            #giftGeneratorContainer .file-input label:hover {
+                background: #e9ecef;
+                border-color: #3498db;
+            }
+
+            #giftGeneratorContainer .file-input input[type="file"] {
+                position: absolute;
+                opacity: 0;
+                width: 100%;
+                height: 100%;
+                top: 0;
+                left: 0;
+                cursor: pointer;
+            }
+
+            #giftGeneratorContainer .file-name {
+                margin-top: 5px;
+                font-size: 0.8rem;
+                color: #666;
+                text-align: center;
+            }
+
+            #giftGeneratorContainer .progress-container {
+                margin: 15px 0;
+                background-color: #f1f1f1;
+                border-radius: 5px;
+                height: 15px;
+                overflow: hidden;
+                display: none;
+            }
+
+            #giftGeneratorContainer .progress-bar {
+                height: 100%;
+                background-color: #2ecc71;
+                width: 0%;
+                transition: width 0.3s ease;
+            }
+
+            #giftGeneratorContainer .progress-info {
+                display: flex;
+                justify-content: space-between;
+                margin-top: 5px;
+                font-size: 0.8rem;
+                display: none;
+            }
+
+            #giftGeneratorContainer .live-counter {
+                text-align: center;
+                margin: 10px 0;
+                font-size: 0.9rem;
+                color: #3498db;
+                display: none;
+            }
+
+            #giftGeneratorContainer .emergency-stop {
+                display: none;
+                margin-top: 10px;
+            }
+
+            #giftGeneratorContainer .loading {
+                display: none;
+                text-align: center;
+                padding: 20px 0;
+            }
+
+            #giftGeneratorContainer .loading img {
+                width: 50px;
+                height: 50px;
+            }
+
+            #giftGeneratorContainer .loading p {
+                margin-top: 10px;
+                font-size: 0.9rem;
+                color: #2c3e50;
+            }
+
+            #giftGeneratorContainer .results {
+                display: none;
+                margin-top: 15px;
+            }
+
+            #giftGeneratorContainer .tabs {
+                display: flex;
+                border-bottom: 1px solid #ddd;
+                margin-bottom: 10px;
+            }
+
+            #giftGeneratorContainer .tab {
+                padding: 8px 15px;
+                cursor: pointer;
+                border-bottom: 2px solid transparent;
+                transition: all 0.2s;
+                font-size: 0.9rem;
+            }
+
+            #giftGeneratorContainer .tab.active {
+                border-bottom-color: #3498db;
+                color: #3498db;
+                font-weight: 500;
+            }
+
+            #giftGeneratorContainer .tab-content {
+                display: none;
+                background: #f8f9fa;
+                padding: 10px;
+                border-radius: 5px;
+                max-height: 200px;
+                overflow-y: auto;
+                font-size: 0.8rem;
+                white-space: pre-wrap;
+            }
+
+            #giftGeneratorContainer .tab-content.active {
+                display: block;
+            }
+
+            #giftGeneratorContainer .download-buttons {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 5px;
+                margin-top: 10px;
+            }
+
+            #giftGeneratorContainer .download-buttons a {
+                flex: 1 1 45%;
+                min-width: 0;
+                font-size: 0.8rem;
+                padding: 6px 10px;
+            }
+
+            #giftGeneratorContainer .error {
+                background-color: #fdecea;
+                color: #e74c3c;
+                padding: 10px;
+                border-radius: 5px;
+                margin-top: 10px;
+                border-left: 3px solid #e74c3c;
+                font-size: 0.9rem;
+                display: none;
+            }
+
+            #giftGeneratorContainer .success {
+                background-color: #e8f5e9;
+                color: #2e7d32;
+                padding: 10px;
+                border-radius: 5px;
+                margin-top: 10px;
+                border-left: 3px solid #2e7d32;
+                font-size: 0.9rem;
+                display: none;
+                text-align: center;
+            }
+
+            #giftGeneratorContainer .schedule-section {
+                background: #f8f9fa;
+                padding: 10px;
+                border-radius: 5px;
+                margin-bottom: 15px;
+                border: 1px solid #ddd;
+            }
+
+            #giftGeneratorContainer .schedule-section h3 {
+                margin: 0 0 10px 0;
+                font-size: 1rem;
+                color: #2c3e50;
+            }
+
+            #giftGeneratorContainer .schedule-option {
+                margin-bottom: 10px;
+            }
+
+            #giftGeneratorContainer .schedule-option label {
+                display: inline;
+                margin-right: 10px;
+            }
+
+            #giftGeneratorContainer #scheduleOptions {
+                display: none;
+                margin-top: 10px;
+                padding-top: 10px;
+                border-top: 1px solid #ddd;
+            }
+
+            #giftGeneratorContainer .time-inputs {
+                display: flex;
+                gap: 10px;
+                margin-top: 10px;
+            }
+
+            #giftGeneratorContainer .time-inputs .form-group {
+                flex: 1;
+                margin-bottom: 0;
+            }
+
+            #giftGeneratorContainer .countdown-container {
+                display: none;
+                background: #e3f2fd;
+                padding: 10px;
+                border-radius: 5px;
+                margin-top: 10px;
+                text-align: center;
+                font-size: 0.9rem;
+            }
+
+            #giftGeneratorContainer .countdown {
+                font-weight: bold;
+                color: #3498db;
+            }
+
+            #giftGeneratorContainer .execution-log {
+                display: none;
+                background: #f5f5f5;
+                padding: 10px;
+                border-radius: 5px;
+                margin-top: 10px;
+                max-height: 150px;
+                overflow-y: auto;
+                font-size: 0.8rem;
+            }
+
+            #giftGeneratorContainer .log-entry {
+                padding: 5px 0;
+                border-bottom: 1px solid #ddd;
+                font-size: 0.8rem;
+            }
+
+            #giftGeneratorContainer .log-entry:last-child {
+                border-bottom: none;
+            }
+
+            #giftGeneratorContainer .counter-display {
+                font-size: 0.9rem;
+                color: #2ecc71;
+                text-align: center;
+                margin: 10px 0;
+                font-weight: bold;
+            }
+
+            #giftGeneratorContainer .partial-results-notice {
+                background-color: #fff3cd;
+                color: #856404;
+                padding: 10px;
+                border-radius: 5px;
+                margin-top: 10px;
+                border-left: 3px solid #ffeeba;
+                display: none;
+                cursor: pointer;
+                font-size: 0.9rem;
+            }
+
+            #giftGeneratorContainer .footer {
+                text-align: center;
+                margin-top: 15px;
+                padding-top: 10px;
+                color: #666;
+                font-size: 0.8rem;
+                border-top: 1px solid #eee;
+            }
+
+            @media (max-width: 500px) {
+                #giftGeneratorContainer {
+                    width: 95%;
+                    padding: 10px;
+                }
+
+                #giftGeneratorContainer .download-buttons a {
+                    flex: 1 1 100%;
+                }
+
+                #giftGeneratorContainer .time-inputs {
+                    flex-direction: column;
+                    gap: 5px;
+                }
+            }
+        `;
+
+        const html = `
+            <div id="giftGeneratorContainer">
+                <div class="close-btn" id="closeUI">×</div>
+                <h1>نظام توليد روابط الهدايا</h1>
+                <h2>بواسطة د. أحمد خالد | إصدار 3.0</h2>
+
+                <form id="mainForm">
+                    <div class="form-group file-input">
+                        <label>📁 اختر ملف الهدايا (يجب أن يحتوي على uss, hash)</label>
+                        <label for="giftfile">اسحب وأسقط الملف هنا أو انقر للاختيار</label>
+                        <input type="file" name="giftfile" id="giftfile" accept=".txt" required>
+                        <div class="file-name" id="fileName">لم يتم اختيار ملف</div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>👤 اسم المستخدم</label>
+                        <input type="text" name="username" placeholder="أدخل اسم المستخدم" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label>🔒 كلمة المرور</label>
+                        <input type="password" name="password" placeholder="أدخل كلمة المرور" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label>⚙️ نوع الهدية</label>
+                        <select name="type" required>
+                            ${config.rewardTypes.map(type => `<option value="${type}">${type}</option>`).join('')}
+                        </select>
+                    </div>
+
+                    <div class="schedule-section">
+                        <h3>⏰ جدولة التكرار التلقائي</h3>
+                        <div class="schedule-option">
+                            <input type="checkbox" id="enableSchedule" name="enableSchedule">
+                            <label for="enableSchedule">تمكين الجدولة التلقائية</label>
+                        </div>
+
+                        <div id="scheduleOptions">
+                            <div class="time-inputs">
+                                <div class="form-group">
+                                    <label>عدد الساعات:</label>
+                                    <input type="number" name="hours" min="0" value="0">
+                                </div>
+                                <div class="form-group">
+                                    <label>عدد الدقائق:</label>
+                                    <input type="number" name="minutes" min="1" value="30">
+                                </div>
+                            </div>
+                            <button type="button" class="btn btn-warning" id="testSound">🔊 اختبار صوت التنبيه</button>
+                        </div>
+                    </div>
+
+                    <div class="counter-display" id="counterDisplay">
+                        الروابط المعالجة: <span id="processedCount">0</span>
+                    </div>
+
+                    <div class="progress-container" id="progressContainer">
+                        <div class="progress-bar" id="progressBar"></div>
+                    </div>
+                    <div class="progress-info" id="progressInfo">
+                        <span id="progressPercent">0%</span>
+                        <span id="progressText"></span>
+                    </div>
+                    <div class="live-counter" id="liveCounter"></div>
+
+                    <button type="submit" class="btn btn-secondary">🚀 بدء توليد الروابط</button>
+                    <button type="button" class="btn btn-danger" id="stopSchedule">⏹ إيقاف الجدولة</button>
+                    <button type="button" class="emergency-stop" id="emergencyStop">🛑 توقف طارئ وحفظ النتائج الحالية</button>
+                </form>
+
+                <div class="partial-results-notice" id="partialResultsNotice">
+                    ⚠️ هذه نتائج جزئية من آخر عملية تم إيقافها. يمكنك استكمال المعالجة أو تحميل النتائج الحالية.
+                </div>
+
+                <div class="countdown-container" id="countdownContainer">
+                    <div class="countdown">الوقت المتبقي للتنفيذ التالي: <span id="countdown">00:00:00</span></div>
+                </div>
+
+                <div class="execution-log" id="executionLog">
+                    <h3>📝 سجل التنفيذ</h3>
+                    <div id="logEntries"></div>
+                </div>
+
+                <div class="loading" id="loading">
+                    <img src="https://i.gifer.com/ZZ5H.gif" alt="جاري التحميل">
+                    <p>جاري معالجة طلبك، الرجاء الانتظار...</p>
+                </div>
+
+                <div class="success" id="successMessage">
+                    ✅ تم تنفيذ العملية بنجاح
+                </div>
+
+                <div class="error" id="errorMessage"></div>
+
+                <div class="results" id="results">
+                    <div class="tabs">
+                        <div class="tab active" data-tab="result">النتائج</div>
+                        <div class="tab" data-tab="shortened">الروابط المختصرة</div>
+                        <div class="tab" data-tab="raw">الروابط الأصلية</div>
+                        <div class="tab" data-tab="errors" id="errorsTab" style="display: none;">الأخطاء</div>
+                    </div>
+
+                    <div class="tab-content active" id="resultTab"></div>
+                    <div class="tab-content" id="shortenedTab"></div>
+                    <div class="tab-content" id="rawTab"></div>
+                    <div class="tab-content" id="errorsTabContent"></div>
+
+                    <div class="download-buttons">
+                        <a href="#" class="btn" id="downloadShort">تحميل الروابط المختصرة</a>
+                        <a href="#" class="btn" id="downloadRaw">تحميل الروابط الأصلية</a>
+                        <a href="#" class="btn btn-secondary" id="downloadCombined">تحميل كل النتائج</a>
+                        <a href="#" class="btn btn-danger" id="downloadErrors" style="display: none;">تحميل ملف الأخطاء</a>
+                    </div>
+                </div>
+
+                <div class="footer">
+                    <p>جميع الحقوق محفوظة &copy; ${new Date().getFullYear()} | د. أحمد خالد</p>
+                </div>
+            </div>
+        `;
+
+        // Add styles to the page
+        const styleElement = document.createElement('style');
+        styleElement.textContent = style;
+        document.head.appendChild(styleElement);
+
+        // Add HTML to the page
+        const container = document.createElement('div');
+        container.innerHTML = html;
+        document.body.appendChild(container);
+
+        // Create floating button
+        createFloatingButton();
+
+        // Close button event
+        document.getElementById('closeUI').addEventListener('click', toggleUI);
+
+        // Check for partial results from previous session
+        const lastPartialResults = GM_getValue('lastPartialResults', null);
+        if (lastPartialResults) {
+            document.getElementById('partialResultsNotice').style.display = 'block';
+        }
+
+        // Initialize UI events
+        initUIEvents();
+    }
+
+    function initUIEvents() {
+        // Display selected file name
+        document.getElementById('giftfile').addEventListener('change', function(e) {
+            const fileName = e.target.files[0] ? e.target.files[0].name : 'لم يتم اختيار ملف';
+            document.getElementById('fileName').textContent = fileName;
+        });
+
+        // Show/hide schedule options
+        document.getElementById('enableSchedule').addEventListener('change', function() {
+            document.getElementById('scheduleOptions').style.display = this.checked ? 'block' : 'none';
+        });
+
+        // Save user data to storage
+        document.querySelector('[name="username"]').addEventListener('change', function() {
+            GM_setValue('username', this.value);
+        });
+
+        document.querySelector('[name="password"]').addEventListener('change', function() {
+            GM_setValue('password', this.value);
+        });
+
+        document.querySelector('[name="type"]').addEventListener('change', function() {
+            GM_setValue('type', this.value);
+        });
+
+        // Tab switching
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.addEventListener('click', function() {
+                const tabId = this.getAttribute('data-tab');
+
+                // Remove active class from all tabs and contents
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+
+                // Add active class to selected tab and content
+                this.classList.add('active');
+                document.getElementById(tabId + 'Tab').classList.add('active');
+            });
+        });
+
+        // Test notification sound
+        document.getElementById('testSound').addEventListener('click', testNotificationSound);
+
+        // Load saved data
+        const savedUsername = GM_getValue('username', '');
+        const savedPassword = GM_getValue('password', '');
+        const savedType = GM_getValue('type', config.rewardTypes[0]);
+
+        if (savedUsername) document.querySelector('[name="username"]').value = savedUsername;
+        if (savedPassword) document.querySelector('[name="password"]').value = savedPassword;
+        if (savedType) document.querySelector('[name="type"]').value = savedType;
+
+        // Form submission
+        document.getElementById('mainForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            const username = document.querySelector('[name="username"]').value.trim();
+            const password = document.querySelector('[name="password"]').value.trim();
+            const selectedType = document.querySelector('[name="type"]').value;
+            const fileInput = document.getElementById('giftfile');
+            const enableSchedule = document.getElementById('enableSchedule').checked;
+
+            // Validate credentials
+            if (!config.allowedUsers[username] || config.allowedUsers[username] !== password) {
+                showError("🚫 اسم المستخدم أو كلمة المرور غير صحيحة.");
+                return;
+            }
+
+            // Validate file
+            if (!fileInput.files || fileInput.files.length === 0) {
+                showError("⚠️ يرجى اختيار ملف الهدايا");
+                return;
+            }
+
+            const file = fileInput.files[0];
+            const reader = new FileReader();
+
+            reader.onload = function(e) {
+                const fileContent = e.target.result;
+
+                if (enableSchedule) {
+                    // Show scheduling elements
+                    document.getElementById('stopSchedule').style.display = 'block';
+                    document.getElementById('countdownContainer').style.display = 'block';
+                    document.getElementById('executionLog').style.display = 'block';
+                    document.getElementById('emergencyStop').style.display = 'block';
+
+                    // Execute first time and schedule next executions after completion
+                    processFile(fileContent, username, selectedType, function() {
+                        const intervalMs = getIntervalMs();
+                        nextExecutionTime = Date.now() + intervalMs;
+
+                        // Start countdown after first execution
+                        startCountdown(intervalMs);
+
+                        // Schedule next executions
+                        schedulerInterval = setInterval(() => {
+                            processFile(fileContent, username, selectedType, function() {
+                                const newIntervalMs = getIntervalMs();
+                                nextExecutionTime = Date.now() + newIntervalMs;
+                                startCountdown(newIntervalMs);
+                            });
+                        }, intervalMs);
+                    });
+                } else {
+                    // One-time processing
+                    document.getElementById('emergencyStop').style.display = 'block';
+                    processFile(fileContent, username, selectedType);
+                }
+            };
+
+            reader.readAsText(file);
+        });
+
+        // Stop scheduling button
+        document.getElementById('stopSchedule').addEventListener('click', function() {
+            stopScheduling();
+            addLogEntry("⏹ توقفت الجدولة التلقائية بواسطة المستخدم");
+        });
+
+        // Emergency stop button
+        document.getElementById('emergencyStop').addEventListener('click', function() {
+            currentProcessing.stopRequested = true;
+            document.getElementById('emergencyStop').style.display = 'none';
+            addLogEntry("🛑 تم إيقاف العملية بشكل طارئ وحفظ النتائج الحالية");
+        });
+
+        // Load partial results button
+        document.getElementById('partialResultsNotice').addEventListener('click', function() {
+            const lastPartialResults = GM_getValue('lastPartialResults', null);
+            if (lastPartialResults) {
+                try {
+                    const results = JSON.parse(lastPartialResults);
+                    displayResults(results, true);
+                    GM_setValue('lastPartialResults', null);
+                    document.getElementById('partialResultsNotice').style.display = 'none';
+                } catch (e) {
+                    showError("حدث خطأ في تحميل النتائج الجزئية السابقة");
+                }
+            }
+        });
+    }
+
+    function getIntervalMs() {
+        const hours = parseInt(document.querySelector('[name="hours"]').value) || 0;
+        const minutes = parseInt(document.querySelector('[name="minutes"]').value) || 30;
+
+        return (hours * 3600000) + (minutes * 60000);
+    }
+
+    function startCountdown(ms) {
+        clearInterval(countdownInterval);
+        nextExecutionTime = Date.now() + ms;
+
+        function updateCountdown() {
+            const now = Date.now();
+            const remaining = nextExecutionTime - now;
+
+            if (remaining <= 0) {
+                clearInterval(countdownInterval);
+                document.getElementById('countdown').textContent = "00:00:00";
+                playNotificationSound();
+                return;
+            }
+
+            const hours = Math.floor(remaining / (1000 * 60 * 60));
+            const minutes = Math.floor((remaining % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((remaining % (1000 * 60)) / 1000);
+
+            document.getElementById('countdown').textContent =
+                `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+        }
+
+        updateCountdown();
+        countdownInterval = setInterval(updateCountdown, 1000);
+    }
+
+    function stopScheduling() {
+        if (schedulerInterval) {
+            clearInterval(schedulerInterval);
+            clearInterval(countdownInterval);
+            schedulerInterval = null;
+            countdownInterval = null;
+        }
+
+        document.getElementById('stopSchedule').style.display = 'none';
+        document.getElementById('countdownContainer').style.display = 'none';
+        document.getElementById('executionLog').style.display = 'none';
+        document.getElementById('emergencyStop').style.display = 'none';
+    }
+
+    function updateProcessedCount(count) {
+        totalProcessedLinks += count;
+        document.getElementById('processedCount').textContent = totalProcessedLinks;
+    }
+
+    function addLogEntry(message, files = {}) {
+        executionCount++;
+        const logEntry = document.createElement('div');
+        logEntry.className = 'log-entry';
+
+        let logContent = `<strong>التنفيذ #${executionCount}</strong> - ${new Date().toLocaleString()}<br>${message}`;
+
+        if (files.short) {
+            logContent += `<br><a href="${files.short.url}" download="${files.short.name}">تحميل الروابط المختصرة</a>`;
+        }
+        if (files.raw) {
+            logContent += ` | <a href="${files.raw.url}" download="${files.raw.name}">تحميل الروابط الأصلية</a>`;
+        }
+        if (files.combined) {
+            logContent += ` | <a href="${files.combined.url}" download="${files.combined.name}">تحميل كل النتائج</a>`;
+        }
+        if (files.error) {
+            logContent += ` | <a href="${files.error.url}" download="${files.error.name}">تحميل ملف الأخطاء</a>`;
+        }
+
+        logEntry.innerHTML = logContent;
+        document.getElementById('logEntries').prepend(logEntry);
+    }
+
+    function showError(message) {
+        const errorElement = document.getElementById('errorMessage');
+        errorElement.textContent = message;
+        errorElement.style.display = 'block';
+        setTimeout(() => {
+            errorElement.style.display = 'none';
+        }, 5000);
+    }
+
+    function displayResults(result, isPartial = false) {
+        const loadingElement = document.getElementById('loading');
+        const resultsElement = document.getElementById('results');
+        const successElement = document.getElementById('successMessage');
+        const errorElement = document.getElementById('errorMessage');
+
+        loadingElement.style.display = 'none';
+
+        // Generate result texts
+        const resultTexts = generateResultTexts(result.groupedLinks);
+
+        // Save results to files
+        const files = saveResultsToFiles(GM_getValue('username', ''), resultTexts, result.errors, isPartial);
+
+        // Update processed count
+        if (result.processedCount) {
+            updateProcessedCount(result.processedCount);
+        }
+
+        // Display results
+        document.getElementById('resultTab').textContent = resultTexts.resultText || "لا توجد نتائج";
+        document.getElementById('shortenedTab').textContent = resultTexts.shortenedText || "لا توجد روابط مختصرة";
+        document.getElementById('rawTab').textContent = resultTexts.rawLinksText || "لا توجد روابط أصلية";
+
+        // Display errors if any
+        if (result.errors && result.errors.length > 0) {
+            document.getElementById('errorsTab').style.display = 'block';
+            document.getElementById('downloadErrors').style.display = 'block';
+            document.getElementById('errorsTabContent').textContent = result.errors.join('\n');
+        } else {
+            document.getElementById('errorsTab').style.display = 'none';
+            document.getElementById('downloadErrors').style.display = 'none';
+        }
+
+        // Set download links
+        document.getElementById('downloadShort').href = files.short.url;
+        document.getElementById('downloadShort').download = files.short.name;
+        document.getElementById('downloadShort').textContent = `تحميل ${files.short.name}`;
+
+        document.getElementById('downloadRaw').href = files.raw.url;
+        document.getElementById('downloadRaw').download = files.raw.name;
+        document.getElementById('downloadRaw').textContent = `تحميل ${files.raw.name}`;
+
+        document.getElementById('downloadCombined').href = files.combined.url;
+        document.getElementById('downloadCombined').download = files.combined.name;
+        document.getElementById('downloadCombined').textContent = `تحميل ${files.combined.name}`;
+
+        if (files.error) {
+            document.getElementById('downloadErrors').href = files.error.url;
+            document.getElementById('downloadErrors').download = files.error.name;
+            document.getElementById('downloadErrors').textContent = `تحميل ${files.error.name}`;
+            document.getElementById('downloadErrors').style.display = 'block';
+        }
+
+        // Show results and success message
+        resultsElement.style.display = 'block';
+        if (!isPartial) {
+            successElement.style.display = 'block';
+        }
+
+        // Add to execution log
+        addLogEntry(isPartial ? "تم حفظ النتائج الجزئية" : "تم تنفيذ العملية بنجاح", files);
+
+        // Play notification sound
+        playNotificationSound();
+
+        // Hide success message after 5 seconds
+        setTimeout(() => {
+            successElement.style.display = 'none';
+        }, 5000);
+
+        // Hide progress elements
+        document.getElementById('progressContainer').style.display = 'none';
+        document.getElementById('progressInfo').style.display = 'none';
+        document.getElementById('liveCounter').style.display = 'none';
+        document.getElementById('emergencyStop').style.display = 'none';
+    }
+
+    function processFile(fileContent, username, selectedType, callback) {
+        const loadingElement = document.getElementById('loading');
+        const resultsElement = document.getElementById('results');
+        const successElement = document.getElementById('successMessage');
+        const errorElement = document.getElementById('errorMessage');
+
+        // Show loading state and hide previous results
+        loadingElement.style.display = 'block';
+        resultsElement.style.display = 'none';
+        successElement.style.display = 'none';
+        errorElement.style.display = 'none';
+
+        // Show progress elements
+        document.getElementById('progressContainer').style.display = 'block';
+        document.getElementById('progressInfo').style.display = 'block';
+        document.getElementById('liveCounter').style.display = 'block';
+
+        processGiftFile(fileContent, username, selectedType, function(result) {
+            displayResults(result, result.isPartial);
+            if (callback) callback();
+        });
+    }
+
+    // Initialize the UI when the script loads
+    createUI();
+})();
